@@ -1,5 +1,5 @@
 //Brian Macias
-//This is my own work.
+//In cColaboration with Ethan Bourley, Lorenzo Menor
 
 #include <iostream>
 #include <string>
