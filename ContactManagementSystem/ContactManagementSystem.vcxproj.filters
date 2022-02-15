@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\x64\contact.txt">
-      <Filter>Source Files</Filter>
+      <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
 </Project>

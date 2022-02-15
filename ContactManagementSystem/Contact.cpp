@@ -62,10 +62,15 @@ int Contact::getIdentifier()
 
 void Contact::setName(string L, string F)
 {
+	Name::setFName);
+	Name::setLName;
 }
 
 void Contact::setAddress(string, string, string)
 {
+	Address::setStreet;
+	Address::setState;
+	Address::setZip;
 }
 
 ostream& operator<<(ostream& out, const Contact& rhs)
